@@ -1,0 +1,28 @@
+# Goal-Focused Folder Organization Config
+# This file is created after your first interactive organization session.
+# It tells Claude how to auto-organize new files, based on preferences you configure such as organization structure and schedule for organizing.
+
+# Your goals/projects (used to categorize new files)
+goals:
+  - "Goal 1 description"
+  - "Goal 2 description"
+
+# Folder structure (created during first run)
+folders:
+  01-Goal-Name: "Files related to Goal 1"
+  02-Another-Goal: "Files related to Goal 2"
+  03-Admin: "Administrative documents"
+  04-Personal: "Personal files"
+  _To-Review: "Ambiguous files for manual review"
+
+# Automation settings (set when you enable auto-organize)
+schedule:
+  enabled: false
+  time: "23:30"
+  frequency: "daily"  # daily, weekly, weekdays
+
+# Safety settings
+safety:
+  never_hard_delete: true
+  review_folder: "_To-Review"
+  log_file: ".goal-org.log"

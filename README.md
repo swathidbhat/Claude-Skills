@@ -45,10 +45,33 @@ cd claude-skills
 
 ```
 claude-skills/
+├── digital-diet-curation/
+├── fallacy-detector/
+│   ├── references/
+│   │   └── fallacies.md
+│   └── SKILL.md
+├── feynman-learning-technique/
+│   ├── feynman-learning/
+│   │   └── LICENSE
+│   ├── feynman-learning.skill
+│   └── SKILL.md
+├── goal-based-folder-org/
+│   ├── assets/
+│   │   └── config-template.yaml
+│   ├── scripts/
+│   │   └── setup-automation.sh
+│   ├── goal-focused-folder-organization.skill
+│   ├── LICENSE
+│   ├── README.md
+│   └── SKILL.md
+├── non-fiction-book-review/
+│   ├── LICENSE
+│   └── SKILL.md
+├── LICENSE
 └── README.md
 ```
 
-*Skills coming soon! Each skill will be a folder containing a `SKILL.md` file with instructions and metadata.*
+Each skill is a folder containing a `SKILL.md` file with instructions and metadata.
 
 ## Contributing
 

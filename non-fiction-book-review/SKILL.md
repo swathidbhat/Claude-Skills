@@ -56,7 +56,7 @@ Before I evaluate your notes, I'd like to hear your recall. Answer as briefly or
 
 1. What was the core argument of the book? What were the key supporting points?
 2. What did you find insightful?
-3. What were you skeptical about?
+3. What were you sceptical about?
 4. How can you apply what you learned?
 ```
 

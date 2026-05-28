@@ -1,6 +1,6 @@
 ---
 name: workplace-replies
-description: Draft, edit, or vet workplace messages: email, Slack, PR comments, review feedback, memos, status updates.
+description: Draft, edit, or vet workplace messages on email, Slack, PR comments, review feedback, memos, status updates.
 ---
 
 # Workplace Replies

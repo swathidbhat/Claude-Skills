@@ -46,6 +46,8 @@ cd claude-skills
 ```
 claude-skills/
 ├── digital-diet-curation/
+├── exec-materials-review/
+│   └── SKILL.md
 ├── fallacy-detector/
 │   ├── references/
 │   │   └── fallacies.md

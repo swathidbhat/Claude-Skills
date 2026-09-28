@@ -69,6 +69,8 @@ claude-skills/
 ├── non-fiction-book-review/
 │   ├── LICENSE
 │   └── SKILL.md
+├── research-proposal-writing/
+│   └── SKILL.md
 ├── LICENSE
 └── README.md
 ```
